@@ -117,4 +117,32 @@ AutoDesk uses Drift with SQLite for local data persistence, allowing vehicle rec
 
 ## License
 
+## Technologies & Techniques
+
+- **Framework:** Flutter
+- **Language:** Dart
+- **Architecture:** Clean Architecture, Feature-First
+- **State Management:** BLoC / Cubit
+- **Dependency Injection:** GetIt
+- **Navigation:** GoRouter
+- **Database:** Drift / SQLite
+- **Local Storage:** SharedPreferences
+- **Responsive Design:** Flutter ScreenUtil
+- **Localization:** Easy Localization (Arabic & English)
+- **Notifications:** Flutter Local Notifications
+- **Image Processing:** Image Picker
+- **File Management:** File Picker
+
+### Engineering Practices
+- Repository Pattern
+- Separation of Concerns
+- Dependency Injection
+- Reactive State Management
+- Offline-First Approach
+- Database Schema Migrations
+- CRUD Operations
+- Unit & Widget Testing
+- Responsive UI and RTL Support
+
+
 This project is currently developed as a private project. All rights reserved unless otherwise specified.
